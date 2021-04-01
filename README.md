@@ -5,10 +5,10 @@
 <p align="center">
   <img src="https://img.shields.io/github/forks/ashish2030/Scribbler-Project?style=flat-square" alt="Scribbler-Project forks"/>
 </a>
-<a href="https://github.com/ashish2030/Bollywood-Game/stargazers" target="blank">
+<a href="https://github.com/ashish2030/Scribbler-Project/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/ashish2030/Scribbler-Project?style=flat-square" alt="Scribbler-Project"/>
 </a>
-<a href="https://github.com/ashish2030/Bollywood-Game/issues" target="blank">
+<a href="https://github.com/ashish2030/Scribbler-Project/issues" target="blank">
 <img src="https://img.shields.io/github/issues/ashish2030/Scribbler-Project?style=flat-square" alt="Scribbler-Project"/>
 </a>
 <a href="https://github.com/ashish2030/Scribbler-Project/pulls" target="blank">
