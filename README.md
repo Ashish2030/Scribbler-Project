@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/github/issues/ashish2030/Scribbler-Project?style=flat-square" alt="Scribbler-Project"/>
 </a>
 <a href="https://github.com/ashish2030/Scribbler-Project/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ashish2030/Scribbler-Project?style=flat-square" alt="Bollywood-Game"/>
+<img src="https://img.shields.io/github/issues-pr/ashish2030/Scribbl?style=flat-square" alt="Bollywood-Game"/>
 </a>
   </p>
 <p align="center"><img src="https://github.com/Ashish2030/Scribbler-Project/blob/master/video/video.gif" ></p>
