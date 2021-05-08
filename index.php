@@ -2,7 +2,7 @@
 
 
 
-include_once("api_call.html");
+include_once("index.html");
 
 
 ?>
