@@ -19,7 +19,8 @@
  [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Calculator)](https://github.com/ashish2030/Calculator/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Calculator)](https://github.com/ashish2030/Calculator/archive/master.zip)
  
-<p align="center"><img src="https://github.com/Ashish2030/Scribbler-Project/blob/master/video/video.gif" ></p>
+https://user-images.githubusercontent.com/61516051/117543060-d994d900-b038-11eb-8e3c-cdcef2cce735.mp4
+
 <p align="center">
     <a href="https://github.com/Ashish2030/Scribbler-Project" target="blank">View Demo</a>
     ·
